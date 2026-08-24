@@ -1,0 +1,6 @@
+{
+  "name": "Rappi",
+  "description": "Deliveries in Minutes — Super-app featuring Turbo delivery, grocery aisles, restaurants, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
